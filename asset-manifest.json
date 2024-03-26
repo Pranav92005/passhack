@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/passhack/static/css/main.0c067a4f.css",
+    "main.js": "/passhack/static/js/main.f262e5c3.js",
+    "static/js/453.8ae3ac38.chunk.js": "/passhack/static/js/453.8ae3ac38.chunk.js",
+    "index.html": "/passhack/index.html",
+    "main.0c067a4f.css.map": "/passhack/static/css/main.0c067a4f.css.map",
+    "main.f262e5c3.js.map": "/passhack/static/js/main.f262e5c3.js.map",
+    "453.8ae3ac38.chunk.js.map": "/passhack/static/js/453.8ae3ac38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c067a4f.css",
+    "static/js/main.f262e5c3.js"
+  ]
+}
